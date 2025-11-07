@@ -1,0 +1,8 @@
+body {margin:0; background:#0a0f1a; color:white; font-family:Arial;}
+header {display:flex; align-items:center; padding:20px;}
+.logo {height:70px;}
+nav a {margin:0 10px; color:#7be0ff; text-decoration:none;}
+.hero {text-align:center; margin-top:120px;}
+.btn {background:#00ffbf; padding:10px 20px; border-radius:6px; color:black; text-decoration:none;}
+.page {padding:80px; max-width:800px; margin:auto;}
+canvas#bg {position:fixed; top:0; left:0; width:100%; height:100%; z-index:-1;}
